@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>9seulkiportfolio</title>
+<link rel="stylesheet" href="css/style.css">
+<script href="script/jquery-1.12.3.js"></script>
+</head>
+
+
+<body>
+    <div id="warp" class="clearfix">
+        <div class="main"><a href="#"><img src="images/1.gif"></a>
+        
+        </div>
+    </div>
+</body>
+</html>
